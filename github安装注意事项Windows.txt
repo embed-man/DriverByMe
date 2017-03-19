@@ -1,0 +1,12 @@
+http://desktop.github.com网页
+下载下来了一定要在复制到downloads文件中去双击安装它
+
+
+
+我是  在d:的根目录下建立了一个downloads目录  
+ 
+
+详情  可以参照 http://desktop.github.com网页 下的安装 github的步骤
+其实  就上面一步是决定你能不能正常安装的关键  
+我当时就是 没注意到这一点  才没成功的
+
